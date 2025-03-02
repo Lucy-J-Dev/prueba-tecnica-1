@@ -1,10 +1,12 @@
-import './App.css';
-import Peliculas from './componets/Peliculas';
+import "./App.css";
+import Usuarios from "./components/Usuarios";
+// import Peliculas from "./components/Peliculas";
 
 function App() {
   return (
     <div>
-      <Peliculas />
+      {/* <Peliculas /> */}
+      <Usuarios />
     </div>
   );
 }
