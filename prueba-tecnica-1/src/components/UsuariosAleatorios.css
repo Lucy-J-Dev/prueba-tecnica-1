@@ -1,0 +1,20 @@
+.usuario-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+
+  h1 {
+    text-align: center;
+  }
+
+  button {
+    padding: 8px;
+    margin: 6px 12px;
+    color: rgb(45, 41, 41);
+    background-color: coral;
+    border-radius: 8px;
+    border: 1px solid coral;
+  }
+}
